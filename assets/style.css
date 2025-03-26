@@ -5,7 +5,7 @@
 	flex-wrap: wrap;
 	min-height: 70px;
 	padding: 0 1.25rem;
-	background-color: white;
+	background-color: transparent;
 	border: 1px solid #EFF2F5;
 	border-radius: 0;
 	position: sticky;
@@ -27,4 +27,11 @@
 }
 .pt-5 {
 	padding-top: 0.25rem !important;
+}
+.nav-tabs .nav-link {
+    	margin-bottom: -1px;
+    	background: #f5f8fa;
+   	border: 1px solid transparent;
+    	border-top-left-radius: .475rem;
+    	border-top-right-radius: .475rem;
 }
