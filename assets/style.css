@@ -26,5 +26,5 @@
 	background: white;
 }
 .pt-5 {
-	padding-top: 0.25rem;
+	padding-top: 0.25rem !important;
 }
