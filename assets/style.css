@@ -11,7 +11,10 @@
 	top: 150px;
 	z-index: 999;
 }
-.alert .alert-primary .mb-5 .ng-star-inserted {
+.alert-primary {
+    	color: #005f94;
+    	background-color: #ccecfd;
+    	border-color: #b3e2fd;
 	display: none;
 }
 #kt_content_container {
