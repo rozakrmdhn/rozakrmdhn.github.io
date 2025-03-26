@@ -6,20 +6,17 @@
 	min-height: 70px;
 	padding: 0 1.25rem;
 	background-color: white;
-	border-bottom: 4px solid #EFF2F5 !important;
+	border-bottom: 2px solid #EFF2F5 !important;
 	position: sticky;
 	top: 150px;
 	z-index: 999;
-	box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+	box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
 .alert-primary {
     	color: #005f94;
     	background-color: #ccecfd;
     	border-color: #b3e2fd;
 	display: none;
-}
-#kt_content_container {
-	margin-top: 100px;
 }
 .nav .nav-tabs .nav-fill {
 	position: sticky;
