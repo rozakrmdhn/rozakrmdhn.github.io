@@ -4,9 +4,9 @@
 	align-items: stretch;
 	flex-wrap: wrap;
 	min-height: 70px;
-	padding: 0 2.25rem;
+	padding: 0 1.25rem;
 	background-color: white;
-	border-bottom: 1px solid #EFF2F5;
+	border-bottom: 4px solid #EFF2F5 !important;
 	position: fixed;
 	top: 150px;
 	z-index: 999;
