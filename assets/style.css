@@ -5,7 +5,9 @@
 	flex-wrap: wrap;
 	min-height: 70px;
 	padding: 0 2.25rem;
-	background-color: transparent;
+	background-color: white;
 	border-bottom: 1px solid #EFF2F5;
 	position: fixed;
+	top: 150px;
+	z-index: 999;
 }
