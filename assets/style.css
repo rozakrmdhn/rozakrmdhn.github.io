@@ -6,11 +6,11 @@
 	min-height: 70px;
 	padding: 0 1.25rem;
 	background-color: white;
-	border: 1px solid #EFF2F5;
+	border: 1px solid #E4E6EF !important;
 	border-radius: 0;
 	position: sticky;
 	top: 155px;
-	z-index: 998;
+	z-index: 995;
 	box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
 }
 .alert-primary {
@@ -22,7 +22,7 @@
 .nav {
 	position: sticky;
     	top: 120px;
-	z-index: 999;
+	z-index: 996;
 }
 .pt-5 {
 	padding-top: 0.25rem !important;
