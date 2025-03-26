@@ -6,10 +6,10 @@
 	min-height: 70px;
 	padding: 0 1.25rem;
 	background-color: white;
-	border-bottom: 2px solid #EFF2F5 !important;
+	border: 1px solid #EFF2F5 !important;
 	position: sticky;
-	top: 170px;
-	z-index: 999;
+	top: 140px;
+	z-index: 998;
 	box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
 .alert-primary {
@@ -20,7 +20,7 @@
 }
 .nav {
 	position: sticky;
-    	top: 140px;
+    	top: 120px;
 	z-index: 999;
 	background: white;
 }
