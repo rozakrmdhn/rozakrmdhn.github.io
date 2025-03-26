@@ -1,7 +1,11 @@
-div.table {
-	padding: 1rem !important;
-}
-
-.p-10 {
-	padding: 1rem !important;
+.card .card-header {
+	display: flex;
+	justify-content: space-between;
+	align-items: stretch;
+	flex-wrap: wrap;
+	min-height: 70px;
+	padding: 0 2.25rem;
+	background-color: transparent;
+	border-bottom: 1px solid #EFF2F5;
+	position: fixed;
 }
