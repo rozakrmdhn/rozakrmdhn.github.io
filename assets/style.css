@@ -10,6 +10,7 @@
 	position: fixed;
 	top: 150px;
 	z-index: 999;
+	box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 .alert-primary {
     	color: #005f94;
