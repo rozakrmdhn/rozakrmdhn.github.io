@@ -11,6 +11,9 @@
 	top: 150px;
 	z-index: 999;
 }
+div .alert .aler-primary .ng-star-inserted {
+	display: none;
+}
 #kt_content_container {
 	margin-top: 100px;
 }
