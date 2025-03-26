@@ -11,7 +11,7 @@
 	top: 150px;
 	z-index: 999;
 }
-.alert .aler-primary .mb-5 .ng-star-inserted {
+.alert .alert-primary .mb-5 .ng-star-inserted {
 	display: none;
 }
 #kt_content_container {
