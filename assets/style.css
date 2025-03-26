@@ -8,7 +8,7 @@
 	background-color: white;
 	border-bottom: 2px solid #EFF2F5 !important;
 	position: sticky;
-	top: 150px;
+	top: 170px;
 	z-index: 999;
 	box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
@@ -20,6 +20,7 @@
 }
 .nav {
 	position: sticky;
-    	top: 250px;
+    	top: 140px;
 	z-index: 999;
+	background: white;
 }
