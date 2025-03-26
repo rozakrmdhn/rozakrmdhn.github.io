@@ -34,3 +34,6 @@
     	border-top-left-radius: .475rem;
     	border-top-right-radius: .475rem;
 }
+.nav-fill .nav-item .nav-link {
+	border-radius: 0;
+}
